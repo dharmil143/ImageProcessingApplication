@@ -1,0 +1,191 @@
+How to use the GUI:
+
+• On opening the jar file with no program arguments, the GUI is displayed.
+
+The User Interface offers 11 buttons that perform different functions.
+The Menu Bar offers 2 buttons, one for loading an image and the other for saving an image.
+
+• After clicking on the load button, the browse option is displayed to a user and they can navigate
+ to any image stored on their local machine. The code only supports a user to click on an image
+ from the accepted file formats. All other files are not accessible.
+
+• After choosing the required file, it appears in the left box and its histogram representation is
+ shown to the right. The image, if exceeds the size of the box is made scrollable in order to view
+  the whole picture.
+
+• After every operation performed, the histogram will change accordingly showing the new image.
+
+• The first button offered is Sepia. On clicking this button, a split screen preview popup is shown.
+ Here, a user can enter a percentage value to partly view the sepia filter on the image. If the
+ percentage values entered by the user exceed 100 or are negative, an error popup is displayed.
+ If the values entered lie in the range 0-100, then on clicking on “apply” the entire image on the
+ original User Interface gets the Sepia filter and its histogram becomes visible. A screenshot has
+ been applied to view this split screen show up.
+
+• The next button is Blur. On clicking this button, a split screen preview popup is shown. Here, a
+user can enter a percentage value to partly view the blurred image. If the percentage values
+entered by the user exceed 100 or are negative, an error popup is displayed. If the values entered
+lie in the range 0-100, then on clicking on “apply” the entire image on the original User
+Interface gets blurred and its histogram becomes visible. A screenshot showing invalid values is
+attached to the res folder.
+
+• The next button is Sharpen. On clicking this button, a split screen preview popup is shown.
+ Here, a user can enter a percentage value to partly view the sharpened image. If the percentage
+ values entered by the user exceed 100 or are negative, an error popup is displayed. If the values
+ entered lie in the range 0-100, then on clicking on “apply” the entire image on the original User
+ Interface gets sharpened and its histogram becomes visible.
+
+• Next are the three buttons for Red, Green and Blue components. On clicking on these buttons their
+ respective component in the Image is displayed its histogram becomes visible.
+
+• Next is the Flip button. On clicking this button, the user is given two choices: either flip the
+ image horizontally or vertically. After clicking on that, the result is displayed by the new
+ image shown.
+
+• The greyscale button uses Luma to convert the image. Here too the split preview is provided.
+
+• The Compress button triggers a popup where the user is given a textfield to type in the level of
+ compression they want on the image. This range is expected to be within 0-100 or else the program
+  will throw an error popup. After the right value is given, the compressed image as well its
+  histogram becomes visible to the user.
+
+• The ColorCorrect button gives a split screen preview popup. Here, a user can enter a percentage
+value to partly view the ColorCorrected image. If the percentage values entered by the user exceed
+100 or are negative, an error popup is displayed. If the values entered lie in the range 0-100,
+then on clicking on “apply” the entire image on the original User Interface gets ColorCorrected and
+ its histogram becomes visible.
+
+• The LevelAdjust button first triggers a popup where the user is given three textfields for
+black, mid and white values. On entering the values, a split screen preview popup comes. Here,
+a user can enter a percentage value to partly view the LevelAdjusted image. If the percentage
+values entered by the user exceed 100 or are negative, an error popup is displayed. If the values
+entered lie in the range 0-100, then on clicking on “apply” the entire image on the original User
+Interface gets LevelAdjusted and its histogram becomes visible.
+
+• After performing one operation, another one can also be done. If the operation supports a split
+preview, the user can view it before applying on the entire image.
+
+• Once all the operations are done, a user is expected to SAVE the image. Here, if the extension
+entered while saving the image is not an accepted file format, an error popup comes asking the user
+ to repeat the action with the correct extension.
+
+• If the user tries to load a new image without saving a previous operated one, an error pops up
+telling the user to first save the previous image.
+
+
+• If “-text” program argument is given to the jar file, then the Command Line Interface is displayed.
+• If “file filename” program argument is given to the jar file, then the script file at that
+particular path is run.
+
+
+
+# The following are Instructions on how to run scripts:
+
+## On running the main class the terminal displays a text stating
+"Enter Scripts or press q to exit :".
+## To run a script one can either type a command on the Command line or run the .txt containing a
+list of commands and then press enter.
+A functionality has been added in which the user can add program arguments in the form of "-file
+filename.txt" to run scripts in that particular textfile.
+
+The Program provides support for the following commands and their examples are also mentioned with
+respect to the path used for this assignment:
+### load image-path image-name
+for example : load res/Image.png Image
+
+### save image-path image-name
+for example : save res/NewImage.png NewImage
+
+### red-component image-name dest-image-name
+for example : red-component Image RedImage
+
+### green-component image-name dest-image-name
+for example : green-component Image GreenImage
+
+### blue-component image-name dest-image-name
+for example : blue-component Image BlueImage
+
+### value-component image-name dest-image-name
+for example : value-component Image ValueImage
+
+### intensity-component image-name dest-image-name
+for example : intensity-component Image IntensityImage
+
+### luma-component image-name dest-image-name
+for example : luma-component Image LumaImage
+
+### horizontal-flip image-name dest-image-name
+for example : horizontal-flip Image HorizontalImage
+
+### vertical-flip image-name dest-image-name
+for example : vertical-flip Image VerticalImage
+
+### brighten increment image-name dest-image-name
+for example : brighten 10 Image NewImage
+
+### rgb-split image-name dest-image-name-red dest-image-name-green dest-image-name-blue
+for example : rgb-split Image RedImage GreenImage BlueImage
+
+### rgb-combine image-name red-image green-image blue-image
+for example : rgb-combine Image RedImage GreenImage BlueImage
+
+### blur image-name dest-image-name
+for example : blur Image BlurImage
+
+### sharpen image-name dest-image-name
+for example : sharpen Imag SharpenImage
+
+### sepia image-name dest-image-name
+for example : sepia Image SepiaImage
+
+### run script-file
+for example : run src/abc.txt
+
+The following new commands have been added which the program can now support.
+
+### compress percentage image-name dest-image-name
+for example : compress 50 Image CompressedImage
+
+### histogram image-name dest-image-name
+for example : histogram Image Hist
+
+### color-correct image-name dest-image-name
+for example : color-correct Image CorrectedImage
+
+### levels-adjust b m w image-name dest-image-name
+for example : levels-adjust 50 100 150 Image LevelsAdjImage
+
+### blur image-name dest-image-name split p
+for example : blur Image BlurImage split 50
+
+### sharpen image-name dest-image-name split p
+for example : sharpen Imag SharpenImage split 50
+
+### sepia image-name dest-image-name split p
+for example : sepia Image SepiaImage split 50
+
+### value-component image-name dest-image-name split p
+for example : value-component Image ValueImage split 50
+
+### intensity-component image-name dest-image-name split p
+for example : intensity-component Image IntensityImage split 50
+
+### luma-component image-name dest-image-name split p
+for example : luma-component Image LumaImage split 50
+
+### color-correct image-name dest-image-name split p
+for example : color-correct Image CorrectedImage split 50
+
+### levels-adjust b m w image-name dest-image-name split p
+for example : levels-adjust 50 100 150 Image LevelsAdjImage split 50
+
+### -file scriptname.txt
+for example: -file res/scripts.txt
+
+The following are certain points to keep in mind:
+# The image must be loaded before performing any operations on it. So the load command is the very
+first command given.
+# Next, any operation can be done on the image that was loaded.
+# If a split view is required, it can be added at the end of the command using "split p" command
+where p is the percentage of the width of the image on which the operation needs to be done.
+# Lastly the image needs to be saved.

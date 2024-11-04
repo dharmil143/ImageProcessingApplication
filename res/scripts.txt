@@ -1,0 +1,56 @@
+# load image and store it as 'Image'
+load Image.png Image
+# compress image by 20% and save it
+compress 20 Image newImage
+save Assignment5/Compress20.png newImage
+histogram newImage hist
+save Assignment5/Compress20Histogram.png hist
+#compress image by 90% and save it
+compress 90 Image newImage
+save Assignment5/Compress90.png newImage
+histogram newImage hist
+save Assignment5/Compress90Histogram.png hist
+#compress the compressed image by another 10% and save it
+compress 10 newImage newImage2
+save Assignment5/DoubleCompress.png newImage2
+histogram newImage2 hist
+save Assignment5/DoubleCompressHistogram.png hist
+#color correct image and save it
+color-correct Image newImage
+save Assignment5/ColorCorrect.png newImage
+histogram newImage hist
+save Assignment5/ColorCorrectHistogram.png hist
+#adjust levels of image by 50-100-150 and save it
+levels-adjust 50 100 150 Image newImage
+save Assignment5/LevelsAdj50-100-150.png newImage
+histogram newImage hist
+save Assignment5/LevelsAdj50-100-150Histogram.png hist
+#adjust levels of image by 10-50-200 and save it
+levels-adjust 10 50 200 Image newImage
+save Assignment5/LevelsAdj10-50-200.png newImage
+histogram newImage hist
+save Assignment5/LevelsAdj10-50-200Histogram.png hist
+#split an image at 50% and blur the first half and save it
+blur Image newImage split 50
+save Assignment5/BlurSplit.png newImage
+#split an image at 50% and sharpen the first half and save it
+sharpen Image newImage split 50
+save Assignment5/sharpenSplit50.png newImage
+#split an image at 50% and add sepia filter on the first half and save it
+sepia Image newImage split 50
+save Assignment5/sepiaSplit.png newImage
+#split an image at 50% and display value component in the first half and save it
+value-component Image newImage split 50
+save Assignment5/ValueSplit.png newImage
+#split an image at 50% and display luma component in the first half and save it
+luma-component Image newImage split 50
+save Assignment5/LumaSplit.png newImage
+#split an image at 50% and display intensity component in the first half and save it
+intensity-component Image newImage split 50
+save Assignment5/IntensitySplit.png newImage
+#split an image at 50% and color correct the first half and save it
+color-correct Image newImage split 50
+save Assignment5/ColorCorrectSplit.png newImage
+#split an image at 50% and adjust levels by 50-100-150 and save it
+levels-adjust 50 100 150 Image NewImage split 50
+save Assignment5/LevelsAdjSplit.png NewImage

@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Assignment6:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4705eb45-e767-4fb5-b8f9-83717847fe6c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/dir.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/questionnaire.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Assignment6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/TestImage.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment4/a4.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment4/res/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment4/res/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment4/res/scripts.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment4/res/scripts.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment4/src/Model/Compression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment5/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment5/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment5/a5.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment5/a5.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Assignment6_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Assignment6_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Archive.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Assignment5/BlueComponent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Assignment5/Blur 5.31.27 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Assignment5/BlurSharpen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Assignment5/BlurSplit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Assignment5/ColorCorrectSplit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Assignment5/Compress50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Assignment5/Compress90.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Assignment5/GreenComponent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Assignment5/GreenSepiaCompress30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Assignment5/Grey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Assignment5/GreyFlipSharpen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Assignment5/HorFlip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Assignment5/ImageCC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Assignment5/ImageHistogram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Assignment5/ImageLA.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Assignment5/IntensitySplit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Assignment5/LAandCC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Assignment5/LevelsAdj10-50-200.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Assignment5/LevelsAdj50-100-150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Assignment5/LevelsAdjSplit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Assignment5/LumaSplit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Assignment5/RedComponent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Assignment5/Sepia.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Assignment5/SepiaBlur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Assignment5/TestImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Assignment5/ValueSplit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Assignment5/blurColorCorrectSplit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Assignment5/color-correctedTest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Assignment5/newImage0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Assignment5/newImage100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Assignment5/newImage50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Assignment5/newImage90.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Assignment5/sepiaSplit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Assignment5/sharpenSplit50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/scripts.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/scripts.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/ButtonListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/ButtonListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/ControllerGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/ControllerGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/ControllerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/ControllerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/ModelImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/ModelImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Pixel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Pixel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/ViewImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/ViewImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/Histogram.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/blurColorCorrectSplit.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/blurSplit.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/blurSplit0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/blurSplit100.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/color-correct.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/colorCorrectSplit.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/compression0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/compression100.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/compression50.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/compression90.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/intensitySplit.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/invalidCompression-20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/invalidCompression120.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/invalidLevelAdjustment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/invalidSplit.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/levelsAdjustment1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/levelsAdjustment2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/levelsAdjustmentSplit.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/lumaSplit.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/sepiaSplit.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/sharpenSplit.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/testController.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/testMockModel.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/valueSplit.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/controller/ControllerGUITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/controller/ControllerGUITest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/controller/ControllorImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/model/MockModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/model/MockModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/view/MockView.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/view/MockView.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2YVK6JgsSmCSmCp4ljB3zumP7tN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit4&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/dharmilkaria/Documents/Java/Group/Assignment6&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.uml&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/res" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/res/Assignment5" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Assignment6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ControllerGUITest.testControllerGUI1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="controller" />
+      <option name="MAIN_CLASS_NAME" value="controller.ControllerGUITest" />
+      <option name="METHOD_NAME" value="testControllerGUI1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ControllorImplTest.testBlurColorCorrectSplit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="controller" />
+      <option name="MAIN_CLASS_NAME" value="controller.ControllorImplTest" />
+      <option name="METHOD_NAME" value="testBlurColorCorrectSplit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ControllorImplTest.testColorCorrectSplit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="controller" />
+      <option name="MAIN_CLASS_NAME" value="controller.ControllorImplTest" />
+      <option name="METHOD_NAME" value="testColorCorrectSplit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ControllorImplTest.testLevelAdjustmentSplit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="controller" />
+      <option name="MAIN_CLASS_NAME" value="controller.ControllorImplTest" />
+      <option name="METHOD_NAME" value="testLevelAdjustmentSplit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.ControllerGUITest.testControllerGUI1" />
+      <item itemvalue="JUnit.ControllorImplTest.testBlurColorCorrectSplit" />
+      <item itemvalue="JUnit.ControllorImplTest.testColorCorrectSplit" />
+      <item itemvalue="JUnit.ControllorImplTest.testLevelAdjustmentSplit" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.ControllerGUITest.testControllerGUI1" />
+        <item itemvalue="JUnit.ControllorImplTest.testBlurColorCorrectSplit" />
+        <item itemvalue="JUnit.ControllorImplTest.testLevelAdjustmentSplit" />
+        <item itemvalue="JUnit.ControllorImplTest.testColorCorrectSplit" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4705eb45-e767-4fb5-b8f9-83717847fe6c" name="Changes" comment="" />
+      <created>1700605132337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700605132337</updated>
+      <workItem from="1700605133389" duration="131289000" />
+      <workItem from="1701383809298" duration="838000" />
+      <workItem from="1701384653977" duration="40000" />
+      <workItem from="1701384698779" duration="349000" />
+      <workItem from="1701385084679" duration="800000" />
+      <workItem from="1701385891041" duration="163000" />
+      <workItem from="1701386066000" duration="4675000" />
+      <workItem from="1701465744616" duration="1583000" />
+      <workItem from="1701731125076" duration="2360000" />
+      <workItem from="1702406145248" duration="4846000" />
+      <workItem from="1702678920660" duration="577000" />
+      <workItem from="1707071329568" duration="607000" />
+      <workItem from="1709001476543" duration="2532000" />
+      <workItem from="1712082367756" duration="3707000" />
+      <workItem from="1725921645984" duration="134000" />
+      <workItem from="1729092039667" duration="4187000" />
+      <workItem from="1729298739893" duration="589000" />
+      <workItem from="1729572763047" duration="835000" />
+      <workItem from="1729717883284" duration="1991000" />
+      <workItem from="1730324176563" duration="306000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/controller/ControllerGUI.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
